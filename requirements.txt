@@ -1,0 +1,12 @@
+# UI 및 웹 서버
+streamlit
+
+# 데이터 처리 및 분석
+pandas
+
+# 시각화
+matplotlib
+seaborn
+
+# 한국어 형태소 분석
+konlpy
